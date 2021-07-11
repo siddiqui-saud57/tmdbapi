@@ -1,0 +1,5 @@
+.app {
+  width: 100%;
+  background-image: linear-gradient(to right, black, rgb(2, 56, 16));
+  overflow-x: hidden;
+}
